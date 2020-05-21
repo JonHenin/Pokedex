@@ -1,5 +1,4 @@
-# POKEMON DETECTION USING YOLO [![license]
-(https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+# POKEMON DETECTION USING YOLO [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ### Project Description
 In the world of Pokemon, a Pokedex is a tool that can detect and recognize Pokemon.  This project is inspired by that.  Using the YOLOv3 computer vision algorithm, a model was built to detect some Pokemon.
@@ -11,7 +10,7 @@ https://www.kaggle.com/thedagger/pokemon-generation-one/data#
 
 The other is from a Google image search.
 
-Images were manually tagged using Microsoft's [VoTT] (https://github.com/microsoft/VoTT)
+Images were manually tagged using Microsoft's [VoTT](https://github.com/microsoft/VoTT)
 
 ## Category
 * YOLOv3
@@ -36,4 +35,4 @@ Unless explicitly stated otherwise at the top of a file, all code is licensed un
 
 ## Acknowledgements
 
-This project is inspired by [Anton Muehlemann] (https://github.com/AntonMu) work, which has allowed me to build out my own YOLO detection model.
+This project is inspired by [Anton Muehlemann](https://github.com/AntonMu) work, which has allowed me to build out my own YOLO detection model.
