@@ -1,0 +1,10 @@
+Bulbasaur
+Oddish
+Charmander
+Squirtle
+Pokeball
+Ivysaur
+Pikachu
+Venusaur
+Magikarp
+Dragonite
