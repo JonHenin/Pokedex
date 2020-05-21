@@ -28,11 +28,10 @@ Images were manually tagged using Microsoft's [VoTT](https://github.com/microsof
 * scipy
 
 
-
 ## License
 
 Unless explicitly stated otherwise at the top of a file, all code is licensed under the MIT license.
 
 ## Acknowledgements
 
-This project is inspired by [Anton Muehlemann](https://github.com/AntonMu) work, which has allowed me to build out my own YOLO detection model.
+This project is inspired by [Niklas Wilson](https://github.com/NiklasWilson) which is a fork of [Anton Muehlemann](https://github.com/AntonMu) work.  Their work has allowed me to build out my own YOLO detection model using Keras.
