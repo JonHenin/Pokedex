@@ -1,10 +1,12 @@
 Bulbasaur
 Oddish
 Charmander
+Ivysaur
 Squirtle
 Pokeball
-Ivysaur
 Pikachu
 Venusaur
 Magikarp
 Dragonite
+Psyduck
+Snorlax

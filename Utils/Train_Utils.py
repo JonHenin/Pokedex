@@ -128,7 +128,7 @@ def data_generator_wrapper(annotation_lines, batch_size, input_shape, anchors, n
     return data_generator(annotation_lines, batch_size, input_shape, anchors, num_classes)
 
 
-def ChangeToOtherMachine(filelist,repo='TrainYourOwnYOLO',remote_machine =''):
+def ChangeToOtherMachine(filelist,repo='YOLOgpu',remote_machine =''):
     '''
     Takes a list of file_names located in a repo and changes it to the local machines file names. File must be executed from withing the repository
 

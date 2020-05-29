@@ -1,351 +1,844 @@
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\056qrzgqy3v4em5a.jpg 60,110,571,520,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\00b53kxo0dtiika8.jpg 13,86,814,801,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\0btrnywx20x7m3du.jpg 616,243,1542,1127,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\0biv4y7ij1oaf5yk.jpg 0,1,1191,1028,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\0c8e69allhql2fcl.jpg 213,117,787,648,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\19ofcgamre62obcu.jpg 9,8,1179,886,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\0dhm1zyvl4sd67r3.jpg 580,828,2055,2259,0 2039,103,2957,1136,1
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\11hjh3knr18rsfli.jpg 57,71,483,601,0 490,61,833,616,0 789,74,1275,622,0 165,553,581,1058,0 585,519,971,1032,0 916,517,1340,1045,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\12uzq9s9t2qe7ghu.jpg 261,404,553,766,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\13mhfmluav97k3fx.jpg 15,0,736,649,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1t6vxrxly0i0n37s.jpg 104,266,714,831,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1nuptpufvflod35t.jpg 216,23,965,692,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1pm04qd900kgiu47.jpg 193,186,900,967,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1equperj561shdq8.jpg 2,1,519,476,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\243wqm0ngq0g5x7s.jpg 1,1,854,647,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2ck95e6ygqmlbxxd.jpg 679,47,1530,821,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2aj9ka8enpijf1kw.jpg 66,127,503,645,0 500,90,919,555,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\284s0dlxgx3kio4p.jpg 5,2,855,926,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2akqrwxdlj7ezpie.jpg 116,71,813,814,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\253s5vv6kuyy4tq4.jpg 2,2,918,860,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\398z8f0g6411zmad.jpg 5,5,795,707,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2yxfh8dhx40bifdw.jpg 9,1,880,888,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2jj67ibx0er3rg4b.jpg 37,10,170,127,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\35sf3wkjqwc2ov3g.jpg 532,143,1382,927,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\30pput2sy98n92zz.jpg 318,4,843,573,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3geftpcribn6t2qu.jpg 134,165,448,450,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3quz1fc7099y99ht.jpg 5,7,1021,939,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\49j264rgxqy5i3wg.jpg 5,4,876,922,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3lasaqzeydeqrag0.jpg 485,533,884,907,0 794,473,1129,901,2 1013,597,1457,884,3 784,826,892,935,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3ay3kwzayysymztn.jpg 38,31,453,421,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4i4nsa02854wcnzi.jpg 37,34,217,165,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4fcub1rd5ukxofjx.jpg 13,117,486,647,0 508,7,987,630,2
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4jfrw3rpp5qjz64d.jpg 14,1,735,652,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4pj2uwvmq7p04bei.jpg 186,41,840,762,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4dvdcf9mi2kdmwfc.jpg 45,72,989,950,5
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4vpnj1e14qedz9cr.jpg 104,139,912,879,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5d97r62scl6zuxaz.jpg 159,130,494,417,0 396,42,451,123,6
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4vjwe7663g1jpi7i.jpg 64,42,844,855,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5ewv4rsrpnycm2y1.jpg 136,180,628,538,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\56xdy0fbn4kt7swa.jpg 10,9,1190,1186,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5k854f1oowvcmsx7.jpg 435,461,675,690,0 628,294,995,654,5 64,125,678,678,7
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5ga7jyexjmddo8bn.jpg 10,4,886,888,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5q9yon7ftwbwqo46.jpg 2,10,250,242,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5hhzw05x5y0c84ir.jpg 31,17,788,886,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5mbx1sdp0inb05de.jpg 905,246,1831,1126,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\64588y9swmves86d.jpg 609,357,974,714,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\65eh0a9c9zpb3x0k.jpg 156,527,489,843,0 354,351,873,842,5 28,161,718,823,7
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\6dcy1pada83uq9c7.jpg 7,5,1021,888,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\5y4hng1fycw9ixk9.jpg 474,187,948,904,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\64viifxwaxo92k7g.JPG 6,1,474,474,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\6jmbo7vmmy53px58.jpg 5,4,860,925,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\745p3x85h2cwqaha.jpg 97,98,1176,1086,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\75m8hkwloyem4y11.jpg 36,54,829,820,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\6mu3760kccpyoilp.jpg 52,94,717,933,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\6vfajegjjjteugfb.jpg 264,203,1174,1246,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7slmfwdvr8q82rkk.jpg 9,4,985,960,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7gya06q5epkum1ll.jpg 31,24,953,787,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7huw1tiq6jw2sqi7.jpg 8,89,816,938,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7skl0xsliolbbunh.jpg 63,2,1160,799,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7hxjivun2xycwh46.jpg 8,10,1179,887,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7tkwlw1e671bsado.jpg 26,579,769,1340,0 520,272,1968,1575,0 242,1647,444,1851,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7uxr22rygk8y3o4g.jpg 6,1,1036,985,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7vguaqtxxmgjvlkf.jpg 25,56,916,668,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7x3ubryak17grrt8.jpg 295,745,1121,1372,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7vsdsqrxcpf8s1vs.jpg 19,17,7000,5000,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\83yk95ndg6zgc5vw.jpg 59,82,987,1000,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\8g95gow1ko7eq94k.jpg 49,59,450,435,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7xjsu7i9ldomy5db.jpg 28,3,1018,744,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\86apsc9264lt4q1t.jpg 4,6,855,923,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\81h4yvuqfl0c1zsv.jpg 14,20,962,2283,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\8sblpsf7ocv540u3.jpg 24,43,268,316,0 246,143,310,214,0 314,187,329,201,4 349,37,629,329,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\8soapc2hzt8oyd9o.jpg 93,176,1398,1295,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\8lypik3fw8gj16ug.jpg 6,2,776,877,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\8v09yagvrr4ibkyv.jpg 121,109,1058,1054,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\8xuoz8hl8m2wb6es.jpg 1408,318,2474,1600,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\94yu8dkbizpazsac.jpg 85,61,874,711,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\9iar30nkkcjh6x0k.jpg 495,147,4979,4094,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\94qzaqs8x097pe03.jpg 366,11,997,709,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\9dal7ftbrf4bavd9.jpg 541,85,1390,844,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\9u348b1gcfy71y6u.jpg 267,33,936,876,0 938,7,1558,904,0 1423,19,2207,896,0 1608,723,2298,1600,0 1085,739,1675,1559,0 422,796,1092,1589,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\a49vco95uqd2rm61.jpg 29,85,397,552,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ao73hpcl42fbe701.jpg 435,63,1160,813,5 122,788,658,1254,8
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\axlb69hdqxolsckt.jpg 653,136,1356,847,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ax94sirn57j7ib4z.jpg 179,29,618,459,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\b4lu0d46aunbuz7d.jpg 211,7,660,897,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\buqhpc62x54r98ix.jpg 257,24,877,802,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\b65iyx568ey0ry3u.jpg 3,8,854,644,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\bkv68g8kze4l3kq4.jpg 111,111,909,774,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\bjwnjtqrqba7qq0g.jpg 178,14,964,731,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\bm78rb5hg2j0163a.jpg 84,37,556,584,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cczld9jtmrlkgag7.jpg 0,3,911,864,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\c3ui8po1uplyv7z3.jpg 221,502,481,804,0 420,309,768,742,5 33,27,538,580,7
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cv9fpu9m578upkpv.jpg 23,10,470,452,0 540,86,620,173,4 514,60,802,341,0 839,133,1021,347,0 0,472,175,741,0 202,492,467,758,0 521,376,996,751,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\caaxx2hinr4p06gk.jpg 18,1,1011,736,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cms8i66k4sen2r8x.jpg 500,172,880,669,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\dnicmi58t6h1ar17.jpg 365,13,1016,711,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\d32fgcy1jj1v9s1z.jpg 401,30,863,591,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\dbu3dbl1523b14w4.jpg 21,51,888,1008,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\czs76nvhciejjjal.jpg 11,14,989,2294,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\d70rc5ak3dwdmor4.jpg 113,47,589,511,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\dw9cb69bybeezkn5.jpg 2,3,954,830,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ec5pfszloquspzl0.jpg 8,131,1598,1350,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\dwwfpbgldq418izz.jpg 120,125,751,699,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ecu8fdb0msc0wt5e.jpg 3,4,574,482,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\efqbfju1suenlszl.jpg 66,90,832,1113,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\eiq92zqq9vwikfu2.jpg 36,144,634,921,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\esy87oeausnqtc0z.jpg 40,68,719,1028,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ej24k6jjmn5f2m1s.jpg 151,118,924,662,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\f05q1q44iloe48tz.jpg 183,226,875,796,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\f21vegqfolmudb0w.jpg 90,30,932,733,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\f8m0nisbam1yjz4u.jpg 3,4,427,387,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\fzjzqn3c0kx1a7mg.jpg 137,0,611,354,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\fdw8tucjgewuzu4f.jpg 323,304,829,797,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\f58hgqo7fmjhim4z.jpg 2,27,2271,2145,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\fl10xm1q25czmpws.jpg 178,137,732,520,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\gudf28gr6swkjgbr.jpg 33,39,845,824,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\gi0g4l7dliiqhjke.jpg 0,14,636,622,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\gwnl3qo5wmnepj9g.jpg 338,28,1243,834,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\h00iuvl46kbacwlr.jpg 41,25,1131,1032,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\g9mhhu2zrb92ldv0.jpg 35,80,1127,866,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\hi6or48dyrp7sns3.jpg 4,249,628,881,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\hpsgtyb6oz7sfofy.jpg 24,6,1332,1260,0 963,1125,1175,1346,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\hocrrh7rkqdxferh.jpg 176,12,963,737,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\hs2d64d0scx8umd8.jpg 243,7,498,282,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\h37jdw1mcq54ccka.jpg 802,102,1849,1284,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\iae3hgz9plr0qcau.jpg 247,305,583,617,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\i2w0neif7fd9uw9k.jpg 12,29,998,934,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\hx6hbjo18efwrweu.jpg 142,4,956,707,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\i3zw2as7r8prrqk9.jpg 119,111,1063,1066,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\hssqn808pfodwj7l.jpg 24,40,452,433,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\iktedhwpptrx67gs.jpg 86,136,163,225,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\iegv3gc6twy7v74p.jpg 145,216,395,521,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\iik7sv8jj8764ca8.jpg 265,22,893,716,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\if1dc6f78v4otbqi.jpg 26,289,382,672,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\igoxhef1kaelw15y.jpg 54,48,817,814,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\j992zq0q47pjy53i.jpg 136,195,1084,1005,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\jc43tf69s9srk67k.jpg 0,5,625,620,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\jd00qiboa7zgd6un.jpg 16,9,947,765,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ilxn1oggsvw6h50f.jpg 9,19,984,763,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\j16ssuddw8ubpcap.jpg 563,13,1569,1054,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\jvyyas75k669xlth.JPG 5,1,478,475,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\jhzdg5d7ijqpxb71.jpg 28,48,872,751,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\jxks7hlkw2q4xy4c.jpg 29,5,639,666,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\jnjf6uyk8tuu0i51.jpg 2,6,900,816,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ji8vwv13bk8vpqly.jpg 235,240,2315,2262,3
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\khl5elvl1sls87g3.jpg 123,174,775,762,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\k9l1trh5ta4ttc0g.jpg 202,106,808,655,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\kk3p3bofmgoyiwtp.jpg 157,82,678,638,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ke4fflxi1bq947pp.jpg 46,22,379,397,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\kgymcunhfgwjuw9h.jpg 2,1,462,457,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\kxb57kmg96zuewfr.jpg 1,133,673,699,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\kr7vc2wozeje0dzo.jpg 24,23,940,769,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\kwq0o0x92o3sxofp.jpg 0,5,1037,985,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\kyc8woq03p96pvj7.jpg 0,157,635,753,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\kno3c37lhjmeenbf.jpg 3,10,883,927,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\l9yu6wpbg82fto1q.jpg 905,236,1843,1166,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lb3m5q0miq8saot2.jpg 2,6,887,886,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\l1svoln1g8a8wkor.jpg 65,0,819,750,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\leij9otrkrlc0158.jpg 88,12,397,388,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\l4n501m873zpprb8.jpg 617,272,1293,886,0 92,128,741,866,2 1124,229,1830,976,3
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lko626oml1cjuq5n.jpg 67,291,731,933,0 503,48,811,350,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lhuh4zh4rx7lhe0j.jpg 67,100,836,800,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\llq6fe7413heckrl.jpg 174,106,775,667,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lqitbxr9dyyzfacn.jpg 726,303,905,487,0 502,54,700,253,3 286,59,478,257,6 0,376,114,573,6 310,303,484,499,2
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lr0zrnwknja2b49r.jpg 34,34,1007,925,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\m4lrjv07an50iizu.jpg 1,2,300,281,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\m118jo3hyjk9epjm.jpg 74,30,796,1016,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\m4omcfluxdrvqdnu.jpg 434,7,596,95,0 222,11,497,255,0 9,5,223,293,0 12,285,211,500,0 214,247,340,378,0 410,249,520,338,0 488,79,698,264,0 509,272,690,460,0 704,140,736,202,0 688,227,735,328,0 638,419,735,542,0 390,493,576,652,0 199,545,429,693,0 24,519,189,686,0 236,301,485,503,0 532,518,736,692,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lzpo38mbv349eq3o.jpg 56,44,915,830,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lxqgau3rmmtd0smg.jpg 6,5,1057,1131,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\mdzsix5n665n4ggz.jpg 68,16,422,343,0 0,15,145,188,1
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\m5zirwzvqeiru574.jpg 115,72,594,455,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\mamldpha9oa3fq3p.jpg 975,1064,1109,1207,0 1126,976,1428,1205,5 1009,464,1876,1137,7 191,137,1426,1202,7
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\mclrl0vdes7k9or6.jpg 141,89,711,745,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\mqxjpzis1kb3v3xd.jpg 387,0,1278,697,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\muis604pzh8262p8.jpg 226,732,891,1242,5
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\n3wi8oezfd8quizl.jpg 25,132,767,941,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ndrvlk8z1n38lsgi.jpg 26,312,1024,1246,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\nhu875w7e4xc1rpd.jpg 15,16,794,687,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\nh135wjtk17ko7u3.jpg 212,394,2366,2171,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\nqk5cab555be0jl0.jpg 3,6,853,646,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\nth2j46nci4t8mon.jpg 155,119,918,663,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\nkxa7l6fx93k37t6.jpg 8,7,1022,939,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\nvvmb0x02o8i7e8s.jpg 4,34,1173,1183,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\nofz62zu82n1sdiy.jpg 1338,331,2295,1123,0 298,286,1250,1184,6 293,1271,1169,2216,2 1364,1308,2249,2209,3
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\o5u9mzk0op02dul2.jpg 242,4,1056,693,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\oxzrxw0us4a4ojft.jpg 363,0,1270,697,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\o2728mf8qgstqm89.jpg 20,480,2069,2097,0 444,2376,621,2561,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\oltvs6odoq2h048z.jpg 170,226,818,821,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\o3cl6tkgnc8einlw.jpg 315,81,1290,940,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\plvscus7tw6unre0.jpg 32,13,214,226,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\p3cn8dsrknf96fu2.jpg 87,82,201,217,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pmon8i250lblzvev.jpg 155,14,910,877,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pfo1c3cqzoo2ogar.jpg 175,75,550,564,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\oznr5evodvtjilhw.jpg 177,33,869,770,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pqcp9aiddleuuz6z.jpg 113,39,495,490,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pri0uwec0ymymjbw.jpg 639,98,1278,700,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pu58llyxvuwwjdsj.jpg 6,5,898,893,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\psnljjvpcebazmc6.jpg 1,11,1049,1131,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pvxee59tvpw3maff.jpg 18,126,821,730,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qmh5lujxo70u9ne7.jpg 38,85,767,727,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\q0s56seyt2x4rlnd.jpg 349,0,979,685,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qinyjoetxavk3d5x.jpg 9,6,734,618,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qht57oybft3ses85.jpg 39,6,875,892,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pztwnejkvbbjrji5.jpg 56,63,1214,795,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qtnpghnpzuims9fe.jpg 4,6,909,845,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qprid9vftiltn29h.jpg 28,0,1021,1002,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qx8fwe60im7pgj39.jpg 6,11,937,883,5
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qnh44039p8gt14tk.jpg 13,131,751,929,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qyuvr1oxogqx31gj.jpg 132,282,634,776,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qzpkucvkl59dlmmy.jpg 127,0,1012,602,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\r3w4psrpkqvmys6y.jpg 351,187,983,807,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\r1hvziclj9ampw39.jpg 4,1,882,893,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\rewiybxl75x3tw1j.jpg 231,28,824,728,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\rec4oo489rt3v5t0.jpg 20,4,851,887,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\rpcfjotpb0d7hsei.jpg 5,9,883,889,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\rjwfk0av5efcvpzh.jpg 24,29,193,187,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\svpm7216onz50g1v.jpg 222,20,984,697,0 104,46,185,115,6 62,134,85,159,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\sgqcy3qrg6gjwdbm.jpg 35,18,423,380,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\swedcwxikz6q7rrv.jpg 119,426,553,809,0 703,127,1266,874,5 47,862,1198,1766,7
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\tq9la3hm1zv53s3k.jpg 12,10,887,887,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\t209334qyeyvz37g.jpg 0,0,1025,879,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\sywv0d9yao7c3v2f.jpg 650,148,1385,865,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\sy9xoq9bej1bwsov.jpg 11,22,444,426,5 11,22,444,426,7 11,22,444,426,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\t1v0ao4bwhu92ylu.jpg 190,372,2358,2232,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\txyoodqmrse2h43u.jpg 34,67,681,898,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\twnw3q6w926brvg5.jpg 78,114,202,274,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\u9e5j2f8t7sy3rl9.jpg 75,26,384,391,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\uf3wrlqw7i34i3os.jpg 145,0,1193,700,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\u55hh6v9fx9dfznb.jpg 165,83,734,627,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ujq77kuxut2lq6iz.jpg 800,162,1732,1017,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\uo2kdqpko9jzm3p8.jpg 264,194,716,703,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\urziyj2wu7ekkugl.jpg 677,822,790,945,4 1115,0,1848,830,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\urg21pzrmyn5rpe2.jpg 0,295,425,1122,0 548,194,977,1046,2 1112,148,1500,1156,3
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\uq5vjq482ov9swvh.jpg 206,186,793,640,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\venm0sy96uigqzlc.jpg 66,50,143,121,0 113,25,132,43,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\vckznmfqwd6t2gxx.jpg 14,5,1057,1128,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\v0mn8eomyzi3ai7o.jpg 11,11,889,892,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\v3qlo9e79jzmt7a4.jpg 12,14,881,885,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\vqai8u986dghh6zw.jpg 0,110,1273,1280,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\w6blanucfbe2sy2a.jpg 18,12,1275,699,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\vroqmt0j8qnq407n.jpg 78,28,787,785,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\vzl6fju7vut08o6j.jpg 225,292,765,718,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\vz2wb6bsq1mvqfbl.jpg 542,24,1421,857,0 1697,871,1874,1041,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\vrvrprmciwawhwhv.jpg 22,15,2267,2162,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\w94i9uk4uv3aw9u4.jpg 16,109,198,289,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ww8gu0cx7iwfdvzs.jpg 169,82,301,249,0 258,176,386,343,0 113,183,261,347,0 55,294,191,446,0 179,314,321,424,0 310,294,456,438,0 367,388,500,570,0 235,393,372,577,0 118,419,237,580,0 0,395,112,577,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\x037uyseam7swybb.jpg 194,360,762,887,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\wr343v7x7a5y5mcl.jpg 114,22,1510,1216,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\wjsc7rjnasw94jxh.jpg 264,202,1207,1240,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\xaj3pr9e4dcv2xid.jpg 12,4,797,740,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\xq19pboqftbvdy18.jpg 2,5,602,644,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\xzr9wad5qwy2i3zv.jpg 40,46,883,875,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\xgg7k3jjionjt300.jpg 482,309,805,627,0 43,224,306,623,2 961,300,1253,621,3
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\xh0xnhj3nvrx97qc.jpg 361,21,1220,822,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\y23kyu9xfi0f2g3n.jpg 256,424,724,907,0 622,336,1061,912,2 917,520,1540,926,3 600,840,738,991,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\y6x0ai3lhm4orv9x.jpg 8,4,909,866,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\y3vcuv2ii5s447ft.jpg 522,133,1392,943,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\y266cih1g2iwe7x7.jpg 366,7,1033,711,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\y2x1p894sdlh8h12.jpg 638,276,1290,884,0 114,125,760,857,2 1107,230,1840,965,3
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\yon5yo6tr19kerza.jpg 90,19,669,542,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\yryp6609346gzl47.jpg 4,10,194,259,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\yf7ckcthx735df7h.jpg 351,197,974,813,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\yx4zzehdcan63lq5.jpg 12,58,2063,1990,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\yfdq9rkdbb18wp2t.jpg 62,49,922,827,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\z4v89dx3tk3s3ejw.jpg 10,36,194,154,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\z9mq6vhkscxeqare.jpg 31,172,639,932,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\zz5nh09xvrv32fuw.jpg 7,129,1600,1381,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\zmwfkn14fcf637j8.jpg 4,14,889,882,0
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\zt39i5lu7ljq26v4.jpg 284,64,740,649,0 928,88,1400,679,6
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\0t6qybin5db9iaz4.jpg 63,8,219,184,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1wyqh0ny1nhsivio.jpg 1,1,231,249,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\05frrzc616r4oiza.jpg 4,2,127,205,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\1ma6js3klujn8p7q.jpg 6,5,585,988,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\0gymr639yy3dqb2v.jpg 9,7,794,777,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2b2x1dsz5ysv295j.jpg 5,13,1015,731,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2q6027dwq6yjhbf2.jpg 88,65,966,612,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2goowxn8bzpiiui6.jpg 427,8,946,712,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2vow5xamdelp8fdt.jpg 89,88,715,682,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\2m7tfj0cxkczzwng.jpg 65,63,1211,1276,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3bbblk29pvvmoswb.jpg 67,57,212,237,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3ci1b7erp9rq3t64.jpg 16,1,200,250,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\36bwv8qlygh2nv0m.jpg 76,2,349,419,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\37aav1h4k7zofbeo.jpg 326,27,793,617,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3vn8bm74v4pikh5g.jpg 112,39,708,660,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4eg4l63npn5up3to.jpg 149,70,410,469,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\6peeac6zxzzlhvpa.jpg 151,13,456,448,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\3y0f0q6iukgbuedi.jpg 58,40,815,867,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\490mb3z9nhyxy7c7.jpg 6,3,362,468,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\4sy5mt8oaoo4mt4w.jpg 5,3,350,597,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\77wuhhthbou01g3f.jpg 6,21,891,925,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\848bpzlou56l2jpm.jpg 112,9,428,493,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\7sltpodho1ngz0t1.jpg 3,10,154,229,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\6ywo917kiqchirik.jpg 3,3,141,122,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\87vfempbxl7rejld.jpg 212,9,1164,877,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\b0lbkx9mxsv5k6kb.jpg 54,12,681,1003,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\9hucqqr97zjk25gq.jpg 6,11,125,192,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\8rknppk9n9qtpuwx.jpg 8,4,288,331,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\c0t28c6tbrhiinaa.jpg 61,24,441,482,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\blxgojjnxd1wsbt5.jpg 27,5,224,245,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\dsaa3o4jsxbf27tl.jpg 12,12,195,201,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cybp1o3rbupkrp34.jpg 2,37,221,298,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cd1ub55uc7ocgmsf.jpg 9,7,589,770,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\c5q8jbe9swhysgor.jpg 18,1,228,340,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\cfgt6j3xys8muuk2.jpg 36,39,359,379,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\f1p7lkvzrdn9ldsn.jpg 20,6,491,494,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\e1tykkfysob0uypx.jpg 301,102,1261,1363,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ep6ur1ujyc3g8raw.jpg 144,1,688,521,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ez9krc8u8gifazn5.jpg 7,1,441,432,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\fnpaepfs4ii2iiig.jpg 3,3,386,468,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\g4du8g8lg5w0r1t5.jpg 31,6,385,546,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\itkmo8ik47xsp54a.jpg 0,9,521,737,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\i558yflpbenqh7w2.jpg 52,49,506,769,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\gsznui9tsyf2xo6n.jpg 192,43,1383,2038,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\j1xx0c7kd0rb2k3u.jpg 36,8,398,393,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lalkhuog48v3ao0h.jpg 8,36,1482,1500,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ke1mx2fb93k3oaku.jpg 151,11,566,360,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\l0ag4cj7y6rgzk75.jpg 21,30,623,627,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\l1k9qekiryaojrva.jpg 758,88,2920,2452,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\km3zvgsux3o0a5dq.jpg 12,14,150,189,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\mpxzh0d5s1ewrvxk.jpg 149,45,504,615,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\mpc1gar0zqi050th.jpg 19,2,600,602,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\lf97irqevgrlo344.jpg 27,26,234,228,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\n7wt6073u4qwrwtv.jpg 15,4,327,587,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\msd4mo019z5c2ufx.jpg 67,4,626,545,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ov40n2t6c08c9w24.jpg 59,25,251,211,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ozqeckymjzrfboha.jpg 6,1,87,102,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\o1gr7zrfgz69rdf2.jpg 2,4,604,658,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pe1mz2jz7uhdo7zz.jpg 132,29,1630,1598,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\oxgxsy7u2kyz6mg6.jpg 9,12,494,529,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\rg6wipgtzff5e0hu.jpg 158,64,894,716,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\pvy22jc5bywxigs0.jpg 466,8,1090,626,9 61,588,76,612,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ruxfjhirv9twkkv2.jpg 25,13,688,554,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\rwm3pehk4owqtiic.jpg 68,5,460,463,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\qhtx1haogicrozsf.jpg 15,25,1986,1631,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\srqyywszqv4chqpc.jpg 25,20,224,156,9 4,78,19,95,4 3,102,19,118,4
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\t06rxhx7xuo6gre4.jpg 6,11,92,87,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ts4wrjl1jdup49b6.jpg 29,36,214,173,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\s0jhx9gri9t1wsfe.jpg 76,13,504,571,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\s0qhpn9g5b39r26d.jpg 6,7,583,989,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\uuzvwrzd4h28vfl0.jpg 140,11,1048,820,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\ust96lemm377kjqh.jpg 6,2,144,126,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\w0oie0bi5ta8qekv.jpg 0,6,610,401,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\tujzperh38epzyer.jpg 1,2,756,426,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\uga4k7yp2ysj2b52.jpg 24,16,390,571,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\y54o557tz5qdvg3c.jpg 11,4,183,161,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\yl8ig0q2yp2lcuvd.jpg 2,1,234,298,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\w3t5xffyeb6v22be.jpg 86,2,218,124,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\yq68vcaaagastqab.jpg 9,12,535,594,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\xz20e3apw1m3xj0o.jpg 48,31,181,239,9
-C:\Users\jonat\Documents\Masters\TrainYourOwnYOLO\Data\Source_Images\Training_Images\vott-csv-export\z66zy0pggqusqjpd.jpg 13,15,241,308,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0btrnywx20x7m3du.jpg 616,243,1542,1127,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0biv4y7ij1oaf5yk.jpg 0,1,1191,1028,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\11hjh3knr18rsfli.jpg 57,71,483,601,0 490,61,833,616,0 789,74,1275,622,0 165,553,581,1058,0 585,519,971,1032,0 916,517,1340,1045,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0c8e69allhql2fcl.jpg 213,117,787,648,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0dhm1zyvl4sd67r3.jpg 580,828,2055,2259,0 2039,103,2957,1136,1
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1equperj561shdq8.jpg 2,1,519,476,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\13mhfmluav97k3fx.jpg 15,0,736,649,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\19ofcgamre62obcu.jpg 9,8,1179,886,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1nuptpufvflod35t.jpg 216,23,965,692,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\12uzq9s9t2qe7ghu.jpg 261,404,553,766,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\284s0dlxgx3kio4p.jpg 5,2,855,926,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\253s5vv6kuyy4tq4.jpg 2,2,918,860,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\243wqm0ngq0g5x7s.jpg 1,1,854,647,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1pm04qd900kgiu47.jpg 193,186,900,967,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1t6vxrxly0i0n37s.jpg 104,266,714,831,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2yxfh8dhx40bifdw.jpg 9,1,880,888,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2jj67ibx0er3rg4b.jpg 37,10,170,127,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2akqrwxdlj7ezpie.jpg 116,71,813,814,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2aj9ka8enpijf1kw.jpg 66,127,503,645,0 500,90,919,555,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2ck95e6ygqmlbxxd.jpg 679,47,1530,821,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\35sf3wkjqwc2ov3g.jpg 532,143,1382,927,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\398z8f0g6411zmad.jpg 5,5,795,707,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\30pput2sy98n92zz.jpg 318,4,843,573,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3geftpcribn6t2qu.jpg 134,165,448,450,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3ay3kwzayysymztn.jpg 38,31,453,421,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4fcub1rd5ukxofjx.jpg 13,117,486,647,0 508,7,987,630,2
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4dvdcf9mi2kdmwfc.jpg 45,72,989,950,3
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\49j264rgxqy5i3wg.jpg 5,4,876,922,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3quz1fc7099y99ht.jpg 5,7,1021,939,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3lasaqzeydeqrag0.jpg 485,533,884,907,0 794,473,1129,901,2 1013,597,1457,884,4 784,826,892,935,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4pj2uwvmq7p04bei.jpg 186,41,840,762,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4vjwe7663g1jpi7i.jpg 64,42,844,855,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4jfrw3rpp5qjz64d.jpg 14,1,735,652,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4i4nsa02854wcnzi.jpg 37,34,217,165,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4vpnj1e14qedz9cr.jpg 104,139,912,879,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\56xdy0fbn4kt7swa.jpg 10,9,1190,1186,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5d97r62scl6zuxaz.jpg 159,130,494,417,0 396,42,451,123,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5hhzw05x5y0c84ir.jpg 31,17,788,886,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5ga7jyexjmddo8bn.jpg 10,4,886,888,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5ewv4rsrpnycm2y1.jpg 136,180,628,538,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5y4hng1fycw9ixk9.jpg 474,187,948,904,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\64588y9swmves86d.jpg 609,357,974,714,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5q9yon7ftwbwqo46.jpg 2,10,250,242,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5mbx1sdp0inb05de.jpg 905,246,1831,1126,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5k854f1oowvcmsx7.jpg 435,461,675,690,0 628,294,995,654,3 64,125,678,678,7
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6mu3760kccpyoilp.jpg 52,94,717,933,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\65eh0a9c9zpb3x0k.jpg 156,527,489,843,0 354,351,873,842,3 28,161,718,823,7
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\64viifxwaxo92k7g.JPG 6,1,474,474,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6dcy1pada83uq9c7.jpg 7,5,1021,888,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6jmbo7vmmy53px58.jpg 5,4,860,925,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\745p3x85h2cwqaha.jpg 97,98,1176,1086,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\75m8hkwloyem4y11.jpg 36,54,829,820,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7gya06q5epkum1ll.jpg 31,24,953,787,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7huw1tiq6jw2sqi7.jpg 8,89,816,938,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6vfajegjjjteugfb.jpg 264,203,1174,1246,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7slmfwdvr8q82rkk.jpg 9,4,985,960,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7hxjivun2xycwh46.jpg 8,10,1179,887,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7skl0xsliolbbunh.jpg 63,2,1160,799,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7uxr22rygk8y3o4g.jpg 6,1,1036,985,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7tkwlw1e671bsado.jpg 26,579,769,1340,0 520,272,1968,1575,0 242,1647,444,1851,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7vsdsqrxcpf8s1vs.jpg 19,17,7000,5000,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7xjsu7i9ldomy5db.jpg 28,3,1018,744,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7vguaqtxxmgjvlkf.jpg 25,56,916,668,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\81h4yvuqfl0c1zsv.jpg 14,20,962,2283,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7x3ubryak17grrt8.jpg 295,745,1121,1372,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\83yk95ndg6zgc5vw.jpg 59,82,987,1000,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8g95gow1ko7eq94k.jpg 49,59,450,435,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\86apsc9264lt4q1t.jpg 4,6,855,923,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8lypik3fw8gj16ug.jpg 6,2,776,877,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8sblpsf7ocv540u3.jpg 24,43,268,316,0 246,143,310,214,0 314,187,329,201,5 349,37,629,329,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\94qzaqs8x097pe03.jpg 366,11,997,709,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\94yu8dkbizpazsac.jpg 85,61,874,711,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8v09yagvrr4ibkyv.jpg 121,109,1058,1054,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8soapc2hzt8oyd9o.jpg 93,176,1398,1295,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8xuoz8hl8m2wb6es.jpg 1408,318,2474,1600,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ao73hpcl42fbe701.jpg 435,63,1160,813,3 122,788,658,1254,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\a49vco95uqd2rm61.jpg 29,85,397,552,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9dal7ftbrf4bavd9.jpg 541,85,1390,844,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9u348b1gcfy71y6u.jpg 267,33,936,876,0 938,7,1558,904,0 1423,19,2207,896,0 1608,723,2298,1600,0 1085,739,1675,1559,0 422,796,1092,1589,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9iar30nkkcjh6x0k.jpg 495,147,4979,4094,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ax94sirn57j7ib4z.jpg 179,29,618,459,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b4lu0d46aunbuz7d.jpg 211,7,660,897,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bjwnjtqrqba7qq0g.jpg 178,14,964,731,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b65iyx568ey0ry3u.jpg 3,8,854,644,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\axlb69hdqxolsckt.jpg 653,136,1356,847,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\caaxx2hinr4p06gk.jpg 18,1,1011,736,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\buqhpc62x54r98ix.jpg 257,24,877,802,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c3ui8po1uplyv7z3.jpg 221,502,481,804,0 420,309,768,742,3 33,27,538,580,7
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bkv68g8kze4l3kq4.jpg 111,111,909,774,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bm78rb5hg2j0163a.jpg 84,37,556,584,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\czs76nvhciejjjal.jpg 11,14,989,2294,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cczld9jtmrlkgag7.jpg 0,3,911,864,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cv9fpu9m578upkpv.jpg 23,10,470,452,0 540,86,620,173,5 514,60,802,341,0 839,133,1021,347,0 0,472,175,741,0 202,492,467,758,0 521,376,996,751,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\d32fgcy1jj1v9s1z.jpg 401,30,863,591,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cms8i66k4sen2r8x.jpg 500,172,880,669,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dw9cb69bybeezkn5.jpg 2,3,954,830,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dwwfpbgldq418izz.jpg 120,125,751,699,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dbu3dbl1523b14w4.jpg 21,51,888,1008,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\d70rc5ak3dwdmor4.jpg 113,47,589,511,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dnicmi58t6h1ar17.jpg 365,13,1016,711,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ecu8fdb0msc0wt5e.jpg 3,4,574,482,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ej24k6jjmn5f2m1s.jpg 151,118,924,662,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\eiq92zqq9vwikfu2.jpg 36,144,634,921,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ec5pfszloquspzl0.jpg 8,131,1598,1350,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\efqbfju1suenlszl.jpg 66,90,832,1113,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\esy87oeausnqtc0z.jpg 40,68,719,1028,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f8m0nisbam1yjz4u.jpg 3,4,427,387,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f05q1q44iloe48tz.jpg 183,226,875,796,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f21vegqfolmudb0w.jpg 90,30,932,733,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f58hgqo7fmjhim4z.jpg 2,27,2271,2145,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fl10xm1q25czmpws.jpg 178,137,732,520,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\gi0g4l7dliiqhjke.jpg 0,14,636,622,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fzjzqn3c0kx1a7mg.jpg 137,0,611,354,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\g9mhhu2zrb92ldv0.jpg 35,80,1127,866,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fdw8tucjgewuzu4f.jpg 323,304,829,797,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\gwnl3qo5wmnepj9g.jpg 338,28,1243,834,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\gudf28gr6swkjgbr.jpg 33,39,845,824,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\h00iuvl46kbacwlr.jpg 41,25,1131,1032,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hi6or48dyrp7sns3.jpg 4,249,628,881,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\h37jdw1mcq54ccka.jpg 802,102,1849,1284,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hs2d64d0scx8umd8.jpg 243,7,498,282,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hocrrh7rkqdxferh.jpg 176,12,963,737,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hpsgtyb6oz7sfofy.jpg 24,6,1332,1260,0 963,1125,1175,1346,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hssqn808pfodwj7l.jpg 24,40,452,433,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hx6hbjo18efwrweu.jpg 142,4,956,707,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i3zw2as7r8prrqk9.jpg 119,111,1063,1066,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iegv3gc6twy7v74p.jpg 145,216,395,521,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i2w0neif7fd9uw9k.jpg 12,29,998,934,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iae3hgz9plr0qcau.jpg 247,305,583,617,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\if1dc6f78v4otbqi.jpg 26,289,382,672,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iik7sv8jj8764ca8.jpg 265,22,893,716,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\igoxhef1kaelw15y.jpg 54,48,817,814,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iktedhwpptrx67gs.jpg 86,136,163,225,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ilxn1oggsvw6h50f.jpg 9,19,984,763,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j16ssuddw8ubpcap.jpg 563,13,1569,1054,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j992zq0q47pjy53i.jpg 136,195,1084,1005,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jc43tf69s9srk67k.jpg 0,5,625,620,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jd00qiboa7zgd6un.jpg 16,9,947,765,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jhzdg5d7ijqpxb71.jpg 28,48,872,751,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ji8vwv13bk8vpqly.jpg 235,240,2315,2262,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jvyyas75k669xlth.JPG 5,1,478,475,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\k9l1trh5ta4ttc0g.jpg 202,106,808,655,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jnjf6uyk8tuu0i51.jpg 2,6,900,816,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jxks7hlkw2q4xy4c.jpg 29,5,639,666,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ke4fflxi1bq947pp.jpg 46,22,379,397,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\khl5elvl1sls87g3.jpg 123,174,775,762,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kno3c37lhjmeenbf.jpg 3,10,883,927,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kk3p3bofmgoyiwtp.jpg 157,82,678,638,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kgymcunhfgwjuw9h.jpg 2,1,462,457,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kr7vc2wozeje0dzo.jpg 24,23,940,769,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l1svoln1g8a8wkor.jpg 65,0,819,750,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kxb57kmg96zuewfr.jpg 1,133,673,699,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kwq0o0x92o3sxofp.jpg 0,5,1037,985,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kyc8woq03p96pvj7.jpg 0,157,635,753,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l4n501m873zpprb8.jpg 617,272,1293,886,0 92,128,741,866,2 1124,229,1830,976,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lb3m5q0miq8saot2.jpg 2,6,887,886,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\leij9otrkrlc0158.jpg 88,12,397,388,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l9yu6wpbg82fto1q.jpg 905,236,1843,1166,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lhuh4zh4rx7lhe0j.jpg 67,100,836,800,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lko626oml1cjuq5n.jpg 67,291,731,933,0 503,48,811,350,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lr0zrnwknja2b49r.jpg 34,34,1007,925,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lqitbxr9dyyzfacn.jpg 726,303,905,487,0 502,54,700,253,4 286,59,478,257,6 0,376,114,573,6 310,303,484,499,2
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\llq6fe7413heckrl.jpg 174,106,775,667,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lxqgau3rmmtd0smg.jpg 6,5,1057,1131,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lzpo38mbv349eq3o.jpg 56,44,915,830,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\m118jo3hyjk9epjm.jpg 74,30,796,1016,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\m5zirwzvqeiru574.jpg 115,72,594,455,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mamldpha9oa3fq3p.jpg 975,1064,1109,1207,0 1126,976,1428,1205,3 1009,464,1876,1137,7 191,137,1426,1202,7
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\m4omcfluxdrvqdnu.jpg 434,7,596,95,0 222,11,497,255,0 9,5,223,293,0 12,285,211,500,0 214,247,340,378,0 410,249,520,338,0 488,79,698,264,0 509,272,690,460,0 704,140,736,202,0 688,227,735,328,0 638,419,735,542,0 390,493,576,652,0 199,545,429,693,0 24,519,189,686,0 236,301,485,503,0 532,518,736,692,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\m4lrjv07an50iizu.jpg 1,2,300,281,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mdzsix5n665n4ggz.jpg 68,16,422,343,0 0,15,145,188,1
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\n3wi8oezfd8quizl.jpg 25,132,767,941,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\muis604pzh8262p8.jpg 226,732,891,1242,3
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mclrl0vdes7k9or6.jpg 141,89,711,745,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mqxjpzis1kb3v3xd.jpg 387,0,1278,697,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ndrvlk8z1n38lsgi.jpg 26,312,1024,1246,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nhu875w7e4xc1rpd.jpg 15,16,794,687,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nkxa7l6fx93k37t6.jpg 8,7,1022,939,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nh135wjtk17ko7u3.jpg 212,394,2366,2171,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nofz62zu82n1sdiy.jpg 1338,331,2295,1123,0 298,286,1250,1184,6 293,1271,1169,2216,2 1364,1308,2249,2209,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nth2j46nci4t8mon.jpg 155,119,918,663,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nqk5cab555be0jl0.jpg 3,6,853,646,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nvvmb0x02o8i7e8s.jpg 4,34,1173,1183,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o3cl6tkgnc8einlw.jpg 315,81,1290,940,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o2728mf8qgstqm89.jpg 20,480,2069,2097,0 444,2376,621,2561,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\p3cn8dsrknf96fu2.jpg 87,82,201,217,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o5u9mzk0op02dul2.jpg 242,4,1056,693,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\oznr5evodvtjilhw.jpg 177,33,869,770,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\oxzrxw0us4a4ojft.jpg 363,0,1270,697,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\oltvs6odoq2h048z.jpg 170,226,818,821,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pqcp9aiddleuuz6z.jpg 113,39,495,490,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pmon8i250lblzvev.jpg 155,14,910,877,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pfo1c3cqzoo2ogar.jpg 175,75,550,564,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\plvscus7tw6unre0.jpg 32,13,214,226,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pri0uwec0ymymjbw.jpg 639,98,1278,700,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pvxee59tvpw3maff.jpg 18,126,821,730,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pztwnejkvbbjrji5.jpg 56,63,1214,795,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pu58llyxvuwwjdsj.jpg 6,5,898,893,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\q0s56seyt2x4rlnd.jpg 349,0,979,685,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\psnljjvpcebazmc6.jpg 1,11,1049,1131,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qnh44039p8gt14tk.jpg 13,131,751,929,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qht57oybft3ses85.jpg 39,6,875,892,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qinyjoetxavk3d5x.jpg 9,6,734,618,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qmh5lujxo70u9ne7.jpg 38,85,767,727,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qprid9vftiltn29h.jpg 28,0,1021,1002,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qtnpghnpzuims9fe.jpg 4,6,909,845,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qx8fwe60im7pgj39.jpg 6,11,937,883,3
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r1hvziclj9ampw39.jpg 4,1,882,893,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qzpkucvkl59dlmmy.jpg 127,0,1012,602,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qyuvr1oxogqx31gj.jpg 132,282,634,776,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rjwfk0av5efcvpzh.jpg 24,29,193,187,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rewiybxl75x3tw1j.jpg 231,28,824,728,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r3w4psrpkqvmys6y.jpg 351,187,983,807,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rpcfjotpb0d7hsei.jpg 5,9,883,889,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rec4oo489rt3v5t0.jpg 20,4,851,887,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\svpm7216onz50g1v.jpg 222,20,984,697,0 104,46,185,115,6 62,134,85,159,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\sgqcy3qrg6gjwdbm.jpg 35,18,423,380,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\sy9xoq9bej1bwsov.jpg 11,22,444,426,3 11,22,444,426,7 11,22,444,426,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\sywv0d9yao7c3v2f.jpg 650,148,1385,865,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\swedcwxikz6q7rrv.jpg 119,426,553,809,0 703,127,1266,874,3 47,862,1198,1766,7
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\t209334qyeyvz37g.jpg 0,0,1025,879,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\txyoodqmrse2h43u.jpg 34,67,681,898,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\twnw3q6w926brvg5.jpg 78,114,202,274,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\tq9la3hm1zv53s3k.jpg 12,10,887,887,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\t1v0ao4bwhu92ylu.jpg 190,372,2358,2232,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\u55hh6v9fx9dfznb.jpg 165,83,734,627,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uf3wrlqw7i34i3os.jpg 145,0,1193,700,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\u9e5j2f8t7sy3rl9.jpg 75,26,384,391,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ujq77kuxut2lq6iz.jpg 800,162,1732,1017,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uo2kdqpko9jzm3p8.jpg 264,194,716,703,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\v3qlo9e79jzmt7a4.jpg 12,14,881,885,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\v0mn8eomyzi3ai7o.jpg 11,11,889,892,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uq5vjq482ov9swvh.jpg 206,186,793,640,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\urziyj2wu7ekkugl.jpg 677,822,790,945,5 1115,0,1848,830,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\urg21pzrmyn5rpe2.jpg 0,295,425,1122,0 548,194,977,1046,2 1112,148,1500,1156,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vqai8u986dghh6zw.jpg 0,110,1273,1280,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\venm0sy96uigqzlc.jpg 66,50,143,121,0 113,25,132,43,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vroqmt0j8qnq407n.jpg 78,28,787,785,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vckznmfqwd6t2gxx.jpg 14,5,1057,1128,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vrvrprmciwawhwhv.jpg 22,15,2267,2162,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vz2wb6bsq1mvqfbl.jpg 542,24,1421,857,0 1697,871,1874,1041,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\w94i9uk4uv3aw9u4.jpg 16,109,198,289,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\w6blanucfbe2sy2a.jpg 18,12,1275,699,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vzl6fju7vut08o6j.jpg 225,292,765,718,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\wjsc7rjnasw94jxh.jpg 264,202,1207,1240,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\wr343v7x7a5y5mcl.jpg 114,22,1510,1216,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xaj3pr9e4dcv2xid.jpg 12,4,797,740,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\x037uyseam7swybb.jpg 194,360,762,887,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ww8gu0cx7iwfdvzs.jpg 169,82,301,249,0 258,176,386,343,0 113,183,261,347,0 55,294,191,446,0 179,314,321,424,0 310,294,456,438,0 367,388,500,570,0 235,393,372,577,0 118,419,237,580,0 0,395,112,577,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xgg7k3jjionjt300.jpg 482,309,805,627,0 43,224,306,623,2 961,300,1253,621,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xzr9wad5qwy2i3zv.jpg 40,46,883,875,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xq19pboqftbvdy18.jpg 2,5,602,644,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xh0xnhj3nvrx97qc.jpg 361,21,1220,822,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y266cih1g2iwe7x7.jpg 366,7,1033,711,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y23kyu9xfi0f2g3n.jpg 256,424,724,907,0 622,336,1061,912,2 917,520,1540,926,4 600,840,738,991,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yf7ckcthx735df7h.jpg 351,197,974,813,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yfdq9rkdbb18wp2t.jpg 62,49,922,827,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y3vcuv2ii5s447ft.jpg 522,133,1392,943,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y6x0ai3lhm4orv9x.jpg 8,4,909,866,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y2x1p894sdlh8h12.jpg 638,276,1290,884,0 114,125,760,857,2 1107,230,1840,965,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\z9mq6vhkscxeqare.jpg 31,172,639,932,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yon5yo6tr19kerza.jpg 90,19,669,542,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yryp6609346gzl47.jpg 4,10,194,259,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\z4v89dx3tk3s3ejw.jpg 10,36,194,154,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yx4zzehdcan63lq5.jpg 12,58,2063,1990,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0gymr639yy3dqb2v.jpg 9,7,794,777,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zz5nh09xvrv32fuw.jpg 7,129,1600,1381,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zmwfkn14fcf637j8.jpg 4,14,889,882,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zt39i5lu7ljq26v4.jpg 284,64,740,649,0 928,88,1400,679,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\05frrzc616r4oiza.jpg 4,2,127,205,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0t6qybin5db9iaz4.jpg 63,8,219,184,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2goowxn8bzpiiui6.jpg 427,8,946,712,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1wyqh0ny1nhsivio.jpg 1,1,231,249,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1ma6js3klujn8p7q.jpg 6,5,585,988,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2b2x1dsz5ysv295j.jpg 5,13,1015,731,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\37aav1h4k7zofbeo.jpg 326,27,793,617,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2m7tfj0cxkczzwng.jpg 65,63,1211,1276,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2vow5xamdelp8fdt.jpg 89,88,715,682,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\36bwv8qlygh2nv0m.jpg 76,2,349,419,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2q6027dwq6yjhbf2.jpg 88,65,966,612,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3ci1b7erp9rq3t64.jpg 16,1,200,250,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\490mb3z9nhyxy7c7.jpg 6,3,362,468,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3bbblk29pvvmoswb.jpg 67,57,212,237,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3y0f0q6iukgbuedi.jpg 58,40,815,867,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3vn8bm74v4pikh5g.jpg 112,39,708,660,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4eg4l63npn5up3to.jpg 149,70,410,469,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4sy5mt8oaoo4mt4w.jpg 5,3,350,597,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6peeac6zxzzlhvpa.jpg 151,13,456,448,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6ywo917kiqchirik.jpg 3,3,141,122,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\77wuhhthbou01g3f.jpg 6,21,891,925,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\848bpzlou56l2jpm.jpg 112,9,428,493,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7sltpodho1ngz0t1.jpg 3,10,154,229,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9hucqqr97zjk25gq.jpg 6,11,125,192,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8rknppk9n9qtpuwx.jpg 8,4,288,331,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\87vfempbxl7rejld.jpg 212,9,1164,877,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\blxgojjnxd1wsbt5.jpg 27,5,224,245,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b0lbkx9mxsv5k6kb.jpg 54,12,681,1003,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c0t28c6tbrhiinaa.jpg 61,24,441,482,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c5q8jbe9swhysgor.jpg 18,1,228,340,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cd1ub55uc7ocgmsf.jpg 9,7,589,770,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ep6ur1ujyc3g8raw.jpg 144,1,688,521,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cybp1o3rbupkrp34.jpg 2,37,221,298,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dsaa3o4jsxbf27tl.jpg 12,12,195,201,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cfgt6j3xys8muuk2.jpg 36,39,359,379,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\e1tykkfysob0uypx.jpg 301,102,1261,1363,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f1p7lkvzrdn9ldsn.jpg 20,6,491,494,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ez9krc8u8gifazn5.jpg 7,1,441,432,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fnpaepfs4ii2iiig.jpg 3,3,386,468,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\g4du8g8lg5w0r1t5.jpg 31,6,385,546,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\gsznui9tsyf2xo6n.jpg 192,43,1383,2038,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\itkmo8ik47xsp54a.jpg 0,9,521,737,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i558yflpbenqh7w2.jpg 52,49,506,769,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\km3zvgsux3o0a5dq.jpg 12,14,150,189,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ke1mx2fb93k3oaku.jpg 151,11,566,360,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j1xx0c7kd0rb2k3u.jpg 36,8,398,393,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lf97irqevgrlo344.jpg 27,26,234,228,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lalkhuog48v3ao0h.jpg 8,36,1482,1500,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l0ag4cj7y6rgzk75.jpg 21,30,623,627,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mpc1gar0zqi050th.jpg 19,2,600,602,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l1k9qekiryaojrva.jpg 758,88,2920,2452,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\msd4mo019z5c2ufx.jpg 67,4,626,545,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\n7wt6073u4qwrwtv.jpg 15,4,327,587,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mpxzh0d5s1ewrvxk.jpg 149,45,504,615,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ov40n2t6c08c9w24.jpg 59,25,251,211,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o1gr7zrfgz69rdf2.jpg 2,4,604,658,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pe1mz2jz7uhdo7zz.jpg 132,29,1630,1598,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ozqeckymjzrfboha.jpg 6,1,87,102,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pvy22jc5bywxigs0.jpg 466,8,1090,626,9 61,588,76,612,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\oxgxsy7u2kyz6mg6.jpg 9,12,494,529,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qhtx1haogicrozsf.jpg 15,25,1986,1631,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rwm3pehk4owqtiic.jpg 68,5,460,463,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rg6wipgtzff5e0hu.jpg 158,64,894,716,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ruxfjhirv9twkkv2.jpg 25,13,688,554,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\s0jhx9gri9t1wsfe.jpg 76,13,504,571,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\s0qhpn9g5b39r26d.jpg 6,7,583,989,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\tujzperh38epzyer.jpg 1,2,756,426,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ts4wrjl1jdup49b6.jpg 29,36,214,173,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\t06rxhx7xuo6gre4.jpg 6,11,92,87,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\srqyywszqv4chqpc.jpg 25,20,224,156,9 4,78,19,95,5 3,102,19,118,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uga4k7yp2ysj2b52.jpg 24,16,390,571,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\w3t5xffyeb6v22be.jpg 86,2,218,124,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\w0oie0bi5ta8qekv.jpg 0,6,610,401,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ust96lemm377kjqh.jpg 6,2,144,126,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xz20e3apw1m3xj0o.jpg 48,31,181,239,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uuzvwrzd4h28vfl0.jpg 140,11,1048,820,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y54o557tz5qdvg3c.jpg 11,4,183,161,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yl8ig0q2yp2lcuvd.jpg 2,1,234,298,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\z66zy0pggqusqjpd.jpg 13,15,241,308,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yq68vcaaagastqab.jpg 9,12,535,594,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\00000072.jpeg 3,4,846,933,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0288mvr16dzfu3go.jpg 73,2,962,900,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\056qrzgqy3v4em5a.jpg 57,109,575,522,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\02yxocnj41m9g2hh.jpg 359,300,971,943,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\00b53kxo0dtiika8.jpg 12,86,814,800,0 687,114,712,140,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\00000153.gif 88,11,952,991,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\06fkit1i1xribc0f.jpg 1031,253,1765,939,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0biv4y7ij1oaf5yk.jpg 4,5,1188,1028,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0btrnywx20x7m3du.jpg 626,226,1556,1126,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\05frrzc616r4oiza.jpg 3,1,127,207,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\08ejbjdn5x45ypi4.jpg 415,75,1284,938,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0jgfuzto3mbbc5tc.jpg 12,23,766,855,6 690,14,1440,850,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0c8e69allhql2fcl.jpg 213,117,800,656,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0ha5i50wiq9kioru.jpg 111,1,311,196,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0ktvd1rfwoo3l44x.jpg 1,2,528,490,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0pcz8sqpi1iacpjh.jpg 22,3,1230,1254,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0t6qybin5db9iaz4.jpg 59,9,217,183,9
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0w9gadg7i5c8cqmo.jpg 55,56,723,742,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0xcxhngd1p8umh0e.jpg 1,2,984,780,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0u7zpqlbiaw866po.jpg 166,7,890,737,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0yojw383ja2k3br3.jpg 379,249,4789,2767,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1msreqfa3piizc6i.jpg 15,39,956,941,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1nb2eyhhgoplgqvz.jpg 26,24,311,243,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\13ozgnuol9hd2zzj.jpg 194,226,748,1073,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1m8kabhb33ifgqex.jpg 40,37,976,1033,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\17bzyrka2hwhs0yw.jpg 409,9,3545,2948,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1vvk4jzlvz8d0d8o.jpg 2,0,785,994,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1nuptpufvflod35t.jpg 96,47,179,114,6 61,131,88,157,5 218,17,963,697,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1pkws35hc4q981mq.jpg 76,77,816,812,6 728,818,812,899,5 724,1,816,85,5 1507,4,1596,87,5 4,1,85,88,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1ow6fpj5ajqxydal.jpg 101,68,549,493,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1z2xzer7wksa8clg.jpg 289,199,1635,1192,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2crj8jxs0jtxb5kb.jpg 952,485,1590,1183,6 3,4,1103,1100,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\257x6u3y3adn2va8.jpg 78,98,1461,1371,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\200suws11qlytv7o.jpg 267,136,755,604,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\22bets6xq9ckktti.jpg 142,26,583,536,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\25xjz2i55fm53cm9.jpg 579,54,1351,829,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2qzt29et8942upwd.jpg 147,14,750,714,6 755,500,945,693,5 1051,295,1097,340,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2qygjpud0xevg87w.jpg 297,91,1406,1183,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2iwpbmv73ptv7w7a.jpg 191,5,1054,1249,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2mqxppwb9t7u0m77.jpg 459,129,978,767,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2tlarqnsfdzrc2x4.jpg 206,11,1508,1238,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\34ddmbxdjsp5srto.jpg 160,536,870,1168,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3e4hlqeevo7wqmlm.jpg 36,321,843,942,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3b6rrh5wbor2c33e.jpg 409,3,1036,719,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3iu0hn5tfu7poxgh.jpg 2,1,1025,770,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2x8ucf73ywdbq8fd.jpg 3,4,1265,1170,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3kg7jwe7xzd5ewaq.jpg 481,90,1021,767,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3p086rblh4wgtea8.jpg 85,7,903,862,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3xobyqnqwi8v50ze.jpg 16,27,1011,1023,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3ywvz43ds29e32kt.jpg 328,4,1310,1077,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3vfaqwdg7a904f5i.jpg 185,2,881,878,6 1220,439,1537,754,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5f084ssb4b7rdxxc.jpg 36,78,785,756,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4zujqozy70gthfi1.jpg 90,36,671,548,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4repp6n56spe6mbf.jpg 55,6,307,313,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4fd3h0sz6oiy2n28.jpg 111,25,419,507,6 314,368,440,526,5 172,436,189,455,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\40szivosnb08yfjd.jpg 5,16,1069,1264,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5xkszdczgztmtqtb.jpg 13,12,478,475,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5qi0a9yyj4s38zpg.jpg 445,16,1011,828,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5ugubjo0ov9cwmqx.jpg 144,6,1214,1479,6 1,1135,342,1482,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5giia1e801kxwean.jpg 79,697,656,1117,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5gpm78nelycrj47u.jpg 456,0,1677,1048,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6bw9c3dsedaxjvxv.jpg 101,0,749,426,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\64my6csq7ckl3drx.jpg 1,2,774,795,6 674,0,1279,797,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6mw3olsheyerjrqm.jpg 381,0,827,504,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6tygb4im9mk3reyf.jpg 3,63,801,977,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7cr8ggrfift2kqms.jpg 495,40,1766,1212,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8ic0ik2mr6kkrue8.jpg 2,4,1551,1714,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\80lb0nk2lfy1w3wm.jpg 28,19,770,812,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7r8on7lgr1x36i59.jpg 146,69,902,1126,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8cuvr2x1h1x9i5o5.jpg 68,27,494,761,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7yf8czt3ewtly7yz.jpg 298,240,885,701,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9io9snzefycuab7p.jpg 128,0,1080,738,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8lytp2lotmbr5af9.jpg 328,26,941,718,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8mp4rwk9orfg9c8d.jpg 2,1,296,283,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8pgcb5ig21u6di08.jpg 88,68,777,801,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8ik751ir49lggsdy.jpg 3,2,1638,2017,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\a4kf9u0h26l5394q.jpg 399,3,1206,897,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9zckosknrc8tvi1l.jpg 143,122,850,838,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\a65xkwgkv7ltdxg0.jpg 364,54,1158,836,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9z8balbtggo67ky4.jpg 210,42,1160,853,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9l69vjdfv2k6mn0s.jpg 58,53,1365,1443,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\alj201gu1cg0aajj.jpg 1,2,827,1048,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\aa1aafd0c74842269cf48fece5c1e0e9.jpeg 1,2,448,449,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\af13e79v7xx0hfcy.jpg 6,45,3498,1866,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\av8ruy33ool4566l.jpg 0,2,686,728,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ac9ilqtajq4p6jd2.jpg 190,13,2065,2335,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bssdr0lykpvhvkmp.jpg 132,69,707,830,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ba4n3f53b4iag70r.jpg 52,57,694,732,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b9twbdqu646gf1tp.jpg 140,73,904,1129,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bj4j8ebunkuv2fzd.jpg 435,16,1013,837,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bdim5bwuwlmh7i8c.jpg 342,0,1275,1075,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c2g35w6ran32qfgz.jpg 11,10,987,779,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bz905h4dwf2fyxgd.jpg 0,1,199,166,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\buo6l9mwxeu068jw.jpg 25,4,833,956,6 767,22,1593,956,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c1rmqozw771jrqk7.jpg 84,116,190,217,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c0p8f5nfyu862vq1.jpg 216,43,819,838,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\d9r3bujw6cog9kbp.jpg 142,1,1191,1120,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c3mkqvcg9hztuxjz.jpg 434,112,1115,684,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c9zd8m9gds3tpjr3.jpg 707,12,1440,900,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cjzqudaml66p096b.jpg 82,46,855,925,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\d7gxa8o8x2u30qsp.jpg 29,371,1420,1968,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dwvzp7rnj4lbw41x.jpg 24,89,1001,1489,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dtm9rsukh8ynajag.jpg 24,27,1012,1012,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dbps5s9fuy0pnhag.jpg 421,78,1271,935,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dhnjwtcfdxqmkj52.jpg 79,184,983,1040,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\e61ohtefwc4csqzk.jpg 286,20,840,717,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\e8k9t76y48zm6g7m.jpg 53,234,1178,1326,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\en1ujfmu9bky1h70.jpg 431,42,1385,1379,6 1387,320,1728,640,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\efyj7gdu0w1i5bv0.jpg 290,140,783,599,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\eiccje60xq93jyxm.jpg 609,128,985,802,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ed6e01ehrigt5zbu.jpg 19,150,1260,1472,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\exmk2zuarmyuqx7y.jpg 75,5,905,864,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f33kpnhsa27hfprp.jpg 20,17,704,1103,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\eykd2uu79hd4i3op.jpg 7,257,799,993,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f622f3t0bjklv4fg.jpg 76,15,862,899,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ez14ltv9uhe3fpyr.jpg 709,308,1264,897,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fhptuv4psx06iqv6.jpg 183,7,1104,1062,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fichri034fmlj7re.jpg 222,224,380,421,6 91,95,385,428,6 9,414,41,478,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f9jve3xa8a6zrm3q.jpg 6,221,394,555,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\feemz3ur0g4faasf.jpg 577,487,1165,1167,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fmcjyktl0ls3yhxl.jpg 137,90,1379,1684,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fu2k4iof67awyes4.jpg 44,70,847,911,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\foydx6betiuq0oci.jpg 0,4,895,907,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\g4nj321j08haqamw.jpg 499,94,949,579,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\g8kak3zgbgcgowzl.jpg 83,15,981,890,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\fs9yp50ij4gjxv4r.jpg 51,213,713,976,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\gjfz0ksyzyfrnqsk.jpg 100,6,208,133,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\h6sot2mc0980ous4.jpg 0,176,1253,1070,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\gx2cp4sc5j74jl6n.jpg 80,169,1213,1280,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hfx8qpf0lchtemv2.jpg 434,2,1574,1125,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\h5pf55q4cv2jkzyz.jpg 427,3,1680,1050,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hz4xqekiskc1hiz5.jpg 326,0,932,659,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i5r1t1x5vfcrbhod.jpg 132,36,467,464,6 382,435,465,520,5 245,478,272,510,5 245,424,260,438,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i4b914t19iacezwx.jpg 2,41,710,709,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\hmb6mmnex0w3meck.jpg 273,8,772,578,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i56ihot78o43njll.jpg 296,152,990,896,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i5wkupifeg099aim.jpg 14,65,845,946,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ibofjibyer983ba7.jpg 68,101,192,222,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ia12c9ngieyokjr6.jpg 586,69,1072,726,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i7uldz5ctpv5oui9.jpg 43,17,736,1033,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iavpbh77ay6lxwn1.jpg 357,111,1689,1411,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ie0ixgd4p0g6cumw.jpg 181,6,1040,1254,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ifk6cjqkjsmlndzv.jpg 56,10,825,744,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\id796vttouw5witw.jpg 95,22,858,820,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\imh684yg45x4ow6j.jpg 0,2,730,1283,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ikk477tx5abfzrgo.jpg 98,30,1641,1762,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iyxc8upu0sw1jv8q.jpg 910,131,1775,1026,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iwv1lxw8t6qpufhz.jpg 1,8,250,243,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iownxc6apix54j8b.jpg 8,62,217,275,6 202,151,403,355,6 314,3,567,209,6 500,74,655,370,6 668,224,869,400,6 786,22,1012,236,6 860,229,1016,534,6 675,394,870,623,6 854,535,1039,791,6 588,619,844,803,6 439,367,639,604,6 250,591,502,764,6 234,294,445,578,6 27,348,238,531,6 12,568,242,783,6 503,719,564,779,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iv2ojng8n425fgps.jpg 4,41,731,711,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\iws49nytqtrgbf28.jpg 303,909,1066,2307,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jgcxie5s08vlpn5v.jpg 148,1,754,504,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jasvyvqz4r5seyoy.jpg 0,5,1246,1250,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j42p3zmmjc0ueug0.jpg 3,2,864,863,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j2iuula7h8lmg0p5.jpg 45,45,861,773,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jg1qzi9rozpb2azw.jpg 135,50,1113,863,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jgsevcprd5131kgg.jpg 337,0,979,656,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jgllr87bkckgzt29.jpg 323,5,1363,1080,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ji9uw6v3vybxe0bk.jpg 287,17,831,714,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jocyc1jgdgnfgguo.jpg 245,79,914,801,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ji8vwv13bk8vpqly.jpg 247,216,2294,2255,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jsnoxf1gfklal0es.jpg 95,82,212,203,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jpk4hoo6as1ye06h.jpg 304,13,811,626,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jx30jscg3k7dsk9v.jpg 89,307,852,1215,6 693,303,1418,1201,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\js7shfzes44i8av5.jpg 8,38,755,720,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jrcrvic0eopwn455.jpg 0,128,546,776,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kjsknp566d92u644.jpg 71,5,269,449,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\km5js71wfwcisxyq.jpg 14,62,1235,1178,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\k3q9f9nvk3yhi31l.jpg 724,2,1600,1194,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\knb9o3ii1e92h4df.jpg 45,2,419,458,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kjee92ewp6tql5gm.jpg 213,11,1505,1261,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l4n501m873zpprb8.jpg 101,140,720,864,2 1115,228,1821,964,4 621,267,1255,879,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l55gb3hzk4gwg3fm.jpg 3,3,1024,911,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kxtttivyy3u1mpan.jpg 57,1,1024,725,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l4cd76o6xqrqbxus.jpg 0,1,1211,816,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kx94vn231j2li0zr.jpg 638,250,1723,1463,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l5zbgu100qg6wey8.jpg 751,211,1243,766,6 336,492,926,1200,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ljprpqvubckrr0y6.jpg 2,2,295,299,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ldixg98t3u21mdtv.jpg 355,299,965,943,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lcpo8d4oi4zsow2f.jpg 64,184,1209,854,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lhkjvz5yp1tkh0x0.jpg 175,59,1351,1042,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lsbqw5mj7l48crc7.jpg 10,3,839,832,6 10,3,839,832,2
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lkuttgztog2q0ciu.jpg 90,77,287,236,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lko626oml1cjuq5n.jpg 511,49,816,347,5 34,179,899,932,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\llhmpb18j9v9n0tl.jpg 575,148,1347,950,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lx2tdh2mz0oyrx1w.jpg 4,4,785,993,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mdk33o1dyfp5ofky.jpg 3,2,756,995,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\m42dwtdx8yzv6t83.jpg 657,140,1351,853,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\m1qek7j0ntv9hodo.jpg 255,99,1244,1407,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mfwy8ud2uy28ym8s.jpg 108,332,597,833,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mf3t08f4i2vlhx5u.jpg 4,8,1636,2023,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ml42e6b5ylpotv9z.jpg 606,242,1715,1449,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\muhjyd8swah6mjri.jpg 83,3,785,1120,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mhdqsq4rsujfci67.jpg 11,7,989,794,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mjh742qjqnipilqm.jpg 86,72,585,639,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\munirtmrso5ls5wl.jpg 798,1,1567,1080,6 358,162,1035,834,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mwtqqorco9efpmso.jpg 15,290,714,859,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nay5kfuzwq0if99w.jpg 2,4,905,1237,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nc5fi8pwtqizutpe.jpg 0,101,120,272,6 119,79,268,267,6 247,105,392,263,6 379,128,494,280,6 400,234,510,387,6 253,251,402,410,6 115,223,255,408,6 0,205,113,400,6 0,369,128,526,6 102,371,280,531,6 264,389,404,557,6 409,373,510,537,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nb3os0ydp3k5n8b3.jpg 70,18,793,911,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mzncj0gjsjk2r135.jpg 640,257,1367,837,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nczv8s1me7d02zqk.jpg 0,0,1200,800,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ne1dgltprzv3w4kd.jpg 28,245,750,1068,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nfpq6405wb0lr3ts.jpg 36,71,930,730,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nmizq7lovosmgh4e.jpg 239,141,1067,672,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nlm1ibzgmyc45zue.jpg 370,226,730,487,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\npjz4qstl43cjd8t.jpg 155,11,2052,2328,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nvvkul6v9lhs9qqo.jpg 220,338,500,732,6 661,555,729,618,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o07p4x3zajr3m2mt.jpg 152,173,740,732,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o59v51uo7wuc1p6z.jpg 40,18,764,814,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nofz62zu82n1sdiy.jpg 276,271,1238,1184,6 290,1244,1188,2210,2 1355,1293,2259,2220,4 1305,321,2284,1157,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\oh77pt5wt62g4260.jpg 569,138,1344,953,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ojs34fy38cix7gzq.jpg 0,0,857,900,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\oh1q0u97gwgt64yj.jpg 414,0,1232,697,6 211,89,756,694,6 110,217,578,686,6 3,407,235,675,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o8t9xjhtx0vprq79.jpg 225,104,1340,1405,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\oaa2ybmuys2ze1i0.jpg 18,138,1258,1747,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pmeev51be0a6ws78.jpg 0,1,1166,1261,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pl0io8ujk0anifzn.jpg 0,52,1279,1251,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\p5v2wqhnybhlu9uk.jpg 184,0,988,675,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\otxlvei3xh2lwpx7.jpg 1,3,827,923,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\op9pjr93tznzw3yc.jpg 23,153,1243,1436,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pxsr8pf1duy0uuuy.jpg 288,0,1089,717,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\q76hpjuic4a8buc3.jpg 0,0,395,588,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pqkzn0awu2uqpd4p.jpg 385,88,1241,880,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\q8mfay5c1tzt88p4.jpg 0,4,1273,1167,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pvaligs5yn7p3uew.jpg 515,46,1269,959,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\q8vjtfcc6w4ztp6n.jpg 48,60,879,887,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r2z2hdqu0sxuj0gd.jpg 27,38,606,823,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r1cwmbfdnjsyuwhm.jpg 24,29,857,827,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r4up725a34mmrdu2.jpg 0,1,692,746,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qsli45gsr49lqzyp.jpg 0,420,812,1169,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rgoa7n8n3kbj5wgh.jpg 0,15,1013,824,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r5pdv38qivv3zuqj.jpg 0,38,982,1044,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r9p8nldmbt6tx8jz.jpg 70,65,968,987,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rbrjac4x6p756nuq.jpg 44,69,1008,1056,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rilnds1fk67anrxx.jpg 889,464,1598,1200,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\sa4q6vqs9xtf7t3n.jpg 194,81,501,366,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ro8zgw1ngo1sgp2v.jpg 6,96,1273,915,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rz639hf3m707vdtb.jpg 208,91,1290,1444,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rmmxxzk2dwg1zljr.jpg 736,0,1600,1192,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rmus0am0fzyr9y4n.jpg 893,203,2072,1500,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\teiu9spblppif9vy.jpg 487,263,744,522,6 510,292,585,365,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\t5aspqpwheda3fb5.jpg 528,0,1116,720,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\tg53pivtxrl3nacu.jpg 16,44,168,266,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\sjv3kkiy6xbip1r4.jpg 291,228,1677,944,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\swczye9ol8xq7eh5.jpg 189,142,2447,1540,6 254,1103,1429,2165,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\umv3avsldqu0id7o.jpg 36,126,147,325,6 132,106,253,338,6 232,86,354,333,6 343,71,506,342,6 493,90,605,334,6 594,107,708,328,6 702,116,802,317,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uak1nrifszot3uxe.jpg 36,200,647,971,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ujel4dimb0opbq9f.jpg 442,84,1016,675,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ucli8qr0dzzntgg5.jpg 54,287,625,843,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\tovwzgzrwjuhd9ec.jpg 112,119,1750,2175,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\v80dqommrqhqmbs3.jpg 365,70,678,421,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vanruv3efj1crudb.jpg 15,94,660,787,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uwba216pwtgsuxq7.jpg 64,93,784,757,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uprzr7olrvm6tjn6.jpg 608,1,1266,720,6 5,147,331,664,6 266,5,700,720,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vj1hdvclu1dyfetg.jpg 639,1,1181,792,6 94,0,659,796,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\w7se0a15r950wr2j.jpg 0,9,1187,1029,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\wdgvxz68tnlmk7l3.jpg 39,84,874,918,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vrvxi3izm6vtyume.jpg 70,96,1396,1389,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\w7td7pciwiq7hrk4.jpg 12,4,978,998,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\walvw1jwbf45qqv0.jpg 343,0,1070,767,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\wn6qlr9ei70fbsv3.jpg 1,152,482,496,6 169,411,253,505,6 502,395,622,492,6 537,299,635,413,6 478,228,532,279,5 632,340,784,494,5 731,288,790,346,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\x0bh5bpnwo9dh2cf.jpg 1343,266,1835,1020,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\whiq891y7qzhnteu.jpg 34,14,302,191,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\wzdar6u9g9x8amt0.jpg 195,147,1248,1207,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ws7c7qqtpixif12f.jpg 966,474,1600,1190,6 7,2,1096,1156,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xflz5srgbsnihb9b.jpg 171,259,559,736,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\x3uvbqtn1z39jqmj.jpg 122,0,823,692,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y5iqhc8edhnd5v6p.jpg 167,15,1056,1241,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xbwearkafflbt4qs.jpg 141,6,1212,1482,6 1,1136,341,1485,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\z2o73o1daq59tfh3.jpg 134,167,1179,1144,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zolchvi3rkvrpvmv.jpg 84,16,845,829,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zt39i5lu7ljq26v4.jpg 945,99,1400,685,6 263,54,739,656,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zs18f7s3ynsn246l.jpg 59,0,872,902,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\z3b7d8rbcoxpbv3r.jpg 265,23,857,559,6 689,548,912,760,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zbxhgpr6bbe6vdsd.jpg 409,67,1017,763,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\17611bcbxst3t0lw.jpg 16,74,597,736,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\05fqtu68ekdy2b3f.jpg 0,4,152,188,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zt61enadch3tk8qn.jpg 0,0,902,1240,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zwus113c92lddbne.jpg 280,193,1632,1200,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zxojcqtm9j2cg7jg.jpg 0,28,596,519,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\380nhk72rtdjky0v.jpg 30,31,179,171,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\413j1pw09w4eyc9n.jpg 75,75,230,204,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\46eobixd0wmldtu8.jpg 47,28,248,253,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1z1ij7i8wxk8k2oy.jpg 53,34,185,166,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\520rfmu6xmlkhs46.jpg 704,108,1077,539,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5612aswem36ih754.jpg 103,96,888,650,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8ne78uest06jjyrd.jpg 166,2,513,537,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8dyv7zh1piptor6y.jpg 100,154,246,269,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7sj5tsd4x2vt75fn.jpg 154,69,470,272,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\66psvc2d6tl2k35n.jpg 964,511,1496,1126,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9j8aeso97xta2p84.jpg 152,90,172,109,5 17,174,77,222,8 101,175,157,220,8 179,176,235,221,8 202,230,257,278,8 118,230,177,274,8 40,231,97,277,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\90qj7rm4vhwiw8jl.jpg 306,8,1271,708,8 236,417,299,481,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\alu30jblsees9dfz.jpg 617,2,1197,655,8 4,1,558,549,8 219,298,772,797,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9gmj83d9bbyrqd7s.jpg 212,387,711,720,8 73,103,506,334,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8ozjnngacwdj2b7e.jpg 1479,143,2112,825,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b9mvwmszzqyudu6i.jpg 47,77,231,279,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b6hdjkvgj8q9xu4b.jpg 196,153,281,204,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\aqzopkm4hfooz8x4.jpg 61,19,856,928,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c2pfwfomhrij8yym.jpg 554,260,1040,752,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\aorka7pbmrl8pxcj.jpg 2,4,1223,918,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\djqhzye8gsjabuq1.jpg 135,305,279,427,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\daau7kn2u838t7y1.jpg 27,4,315,268,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dvlhdn1y4chjm81d.jpg 118,135,761,883,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dca4bnjdd0ro1rzc.jpg 43,19,219,151,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\d75wj5fh56zhgow8.jpg 735,118,1671,1017,8 45,399,767,1080,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dydfojvw4uqcmrf7.jpg 206,0,898,596,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ft18m24d565246wh.jpg 49,64,1144,1197,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\g84803mkelaop1a3.jpg 254,62,534,350,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\dwwp6g9iwvgm7m3x.jpg 4,0,238,248,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f9ni9yq6higaeykq.jpg 173,80,447,400,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\h0azxl563ymi7ykx.jpg 60,127,188,215,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\jiaew0h0yirmn7wp.jpg 499,96,813,346,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\k91rwulqxpiq678q.jpg 17,3,293,295,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j2gg1z4rbhplfpzh.jpg 29,23,566,564,8 307,263,555,516,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\k3at83h8i472m52r.jpg 38,24,88,80,8 83,24,147,83,8 150,21,206,79,8 283,23,330,79,8 339,23,386,84,8 276,99,327,138,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ki10g80114y9bgq9.jpg 73,3,935,654,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lindyrc75948ypel.jpg 220,27,387,159,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l3nto2ggulqszaqr.jpg 364,96,456,157,6 344,167,541,303,8 33,203,64,236,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lm3r7zeh4uw8dsec.jpg 55,131,374,441,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mp6o9zyl1wnwd5ge.jpg 199,271,706,777,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\olkhl6cbqlt119fk.jpg 188,255,270,329,6 31,304,167,411,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\okzr8soi3wcoxcyw.jpg 29,24,355,326,8 13,17,98,93,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\p6fzp91iqf2is63p.jpg 325,200,728,489,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\otkcwrwqphjachoe.jpg 28,21,294,321,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\p1ln7moe5f3w0gjg.jpg 367,28,735,396,8 570,360,708,440,8 434,368,564,440,8 346,380,426,440,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rl3dbnwsndcpdqkm.jpg 110,3,623,458,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pgj1g6ghuw9t138j.jpg 36,83,422,429,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\t4ql2d8tjnwlvg3u.jpg 180,144,428,366,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\szmfpkmelr7bpp7a.jpg 51,153,408,554,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\rck1gcg7zo3n0ifv.jpg 604,20,793,236,8 218,23,408,240,8 27,25,217,242,8 799,26,988,243,8 992,16,1182,233,8 1385,25,1575,242,8 412,23,601,240,8 1385,236,1575,453,8 1182,226,1372,443,8 993,234,1182,450,8 795,224,984,441,8 409,227,598,444,8 1187,25,1376,242,8 221,235,410,452,8 25,228,214,444,8 26,449,215,666,8 219,449,409,666,8 407,456,596,673,8 604,449,794,666,8 799,453,988,670,8 988,448,1178,665,8 1182,458,1371,675,8 1381,451,1571,668,8 25,656,215,873,8 223,665,412,882,8 415,657,605,874,8 611,668,801,885,8 800,658,990,874,8 993,662,1182,879,8 1188,661,1377,878,8 1386,666,1576,882,8 611,234,800,451,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uaomc51arvxekmtz.jpg 30,24,155,140,8 254,0,594,311,8 25,21,51,47,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ux4w73nahr6oyzpa.jpg 3,1,636,477,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\v8hd37ue1cb8adqr.jpg 36,41,170,146,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\u6x8p8xqxrf03q29.jpg 2,1,262,299,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\v9tn3xzz2ginmalc.jpg 448,567,671,747,8 47,509,335,725,8 135,351,304,511,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\14xfkuobemajbp60.jpg 66,42,184,166,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\w2jxaf8f55mv1b83.jpg 246,1,533,317,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\16bux6zcfj5kjq7r.jpg 87,62,240,218,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\y21z4ls4i8eadnks.jpg 0,6,682,780,8
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\0jm3727l0vx2jy22.jpg 5,3,637,898,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2qsyyoxukju55c2q.jpg 98,8,513,529,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3mhaitijcagvpz6r.jpg 457,313,1005,1050,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1bxl081ap6klw3qq.jpg 0,0,298,225,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1u4niwaq1wxw2x81.jpg 27,0,223,250,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2cs9pib4vqn2y13j.jpg 77,222,623,900,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3sv9cz231ofy9zgy.jpg 0,0,299,225,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3xqree2whf29i081.jpg 8,0,191,192,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3xtulnbs6gohsbgp.jpg 318,41,640,268,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\50z8y8sxpefhhkka.jpg 154,104,435,446,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\50cwwpo182ezyuib.jpg 33,54,292,224,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\53p7oib07mbzeld3.jpg 2,0,210,230,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6j0i40vb3i4kk07c.jpg 1,1,299,226,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5b532ak5uq1hgvzb.jpg 6,49,126,251,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\59fug7avgx48c8px.jpg 0,0,299,225,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6jx5t3ofzlbkpmb3.jpg 76,23,1005,1159,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\70ftu8ef10ce08wb.jpg 45,31,542,757,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7e1s2xnvzmsv3r0n.jpg 0,1,300,455,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6pdihpbe7o31lrhv.jpg 53,62,94,112,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\6s5dzccjf9s6ffjt.jpg 27,19,227,231,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8l5awgzfeakui5lh.jpg 91,40,241,146,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\agd9imc4b5b7p0db.jpg 1,1,590,768,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\98mq2mdq3uwc243n.jpg 270,79,1214,1417,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9xi043magbl55jxi.jpg 82,36,631,472,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8sutr0ejh2d0iuv7.jpg 34,2,388,495,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9wtdrmvhspvfnz3f.jpg 424,52,706,373,10 829,56,1181,377,10 1618,421,1900,774,10 1681,61,1963,382,10 87,429,369,769,10 418,446,764,772,10 857,444,1178,764,10 24,853,320,1173,10 559,960,783,1186,10 59,85,340,405,10 806,850,1030,1076,10 954,950,1178,1176,10 55,1311,343,1536,10 1313,841,1566,1185,10 444,823,668,1049,10 1652,844,1974,1165,10 1243,448,1565,768,10 1289,81,1571,402,10 1860,488,1936,560,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bft9cmgjgki6w5je.jpg 2,35,285,226,2
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ausxxa7t3wnw2uuf.jpg 22,18,593,803,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\biiwjbwgwgod0gd8.jpg 50,40,199,181,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b8cj22pjbiwcj2u2.jpg 62,80,141,158,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bo5k8jjlswkf1rc8.jpg 81,13,385,457,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c4e3ec14a4874e5fb48d5059339b7727.jpeg 64,2,386,447,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c538ye4i4vy0v73b.jpg 234,3,899,812,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bpjq7z2wlahrxs8u.jpg 430,56,1065,933,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bz1bpp33chz7d29m.jpg 720,25,1143,683,10 141,22,624,684,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c4pw21k5riy62ugb.jpg 457,499,950,1153,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\df2qyydxpli4y71n.jpg 47,5,289,313,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\c8wa72lx8gjcya3q.jpg 50,82,721,629,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cz72k8uaeynwl3fa.jpg 92,42,240,142,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cox167m3ilrwbyg8.jpg 371,140,720,634,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\du6efwcvnjhq88mi.jpg 74,0,417,487,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\g7uaih8x1e3la33b.jpg 0,1,136,150,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f3d5v3cr07b4cyo5.jpg 68,17,299,226,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\e8zbjeyi858vd06v.jpg 0,0,188,300,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\elbbfdqs1fyvo70v.jpg 53,28,299,198,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i33wrodvclu85b0l.jpg 348,148,606,485,10 128,147,218,280,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j3xf4qt4xzosm831.jpg 1,1,218,298,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kfc0quvnz60tu455.jpg 33,45,298,226,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kqkw627y7dkjljnt.jpg 188,72,412,327,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\kvl1rl1xv78ugjvb.jpg 49,34,203,164,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\itu1dbvk51rmjp50.jpg 3,66,600,895,10 402,618,571,868,5 119,740,149,768,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lobaahre5c156l2k.jpg 30,1,196,230,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lp5xxguf6gilf4rz.jpg 82,9,389,350,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\n1gvd3g6gu3bwn52.jpg 605,0,1405,905,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lfswxfq61v69buta.jpg 93,52,543,619,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ljqyast3j6l2ph9k.jpg 76,0,521,599,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nd8gozcg52leu7zo.jpg 179,26,1118,720,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nby0ehlb7vcnns60.jpg 582,769,1043,1405,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\p51qfq41c3fd0md5.jpg 100,27,398,477,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\p7q7n1mh43o7wbfm.jpg 10,69,272,226,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\n21r2r941qf9y786.jpg 132,19,740,828,10 11,736,55,783,0
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qxfm5u8w4panyecx.jpg 56,101,224,276,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qirpgawqfnqlhxm2.jpg 1,0,299,225,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\s6oijne6nzjtciuk.jpg 67,69,177,172,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\qqt8luuja1mpovql.jpg 87,7,487,586,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\sm7awxi3c7f9amzq.jpg 0,0,299,225,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ws54sb9n3mczmmkx.jpg 78,20,518,572,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uy927oj2l96cg7sx.jpg 2,1,566,797,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vdj9vmi2ffdhta9w.jpg 1,0,253,225,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vaz3g4jcyveqz3eq.jpg 38,31,210,216,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\tqnuzlsspvec8q5h.jpg 705,5,1218,706,10 49,4,592,706,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\x3osyvp5auwvhobi.jpg 22,10,205,291,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\x2gdfylltcow3gzl.jpg 82,70,214,227,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xhx1uhy7zqw3h1n2.jpg 90,41,242,139,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ycor8k1o2xggoysq.jpg 12,1,245,194,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xirhie8xy82gqxuz.jpg 2,0,800,998,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yioor43m9t765zp6.jpg 93,43,240,140,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yn6c632lqqmlzgzx.jpg 53,12,250,286,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ys8zswq0ibrn6zm9.jpg 70,96,176,215,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\z995q8u48qn3rju2.jpg 45,20,299,226,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\yu1xrmp6q87r67c2.jpg 208,1,714,545,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zpfe0kshb8ptsery.jpg 1,0,298,225,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zkb2l33prmhdmh0s.jpg 0,24,72,153,10 72,23,150,151,10 149,23,219,148,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zqtx7la0dgwuifjs.jpg 118,57,259,256,10 223,49,382,280,10 367,51,492,275,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zrfhresc2pxo55ju.jpg 0,0,246,345,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zwyzt1p6f47odsrp.jpg 22,0,298,399,10
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1c0cecrekrmr3g5u.jpg 118,307,688,937,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1ipyjvrlrmh25s5a.jpg 1,0,496,398,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1vf2zsjg87ixwnei.jpg 126,95,1371,1435,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\13jo1wyseh79or9g.jpg 112,35,561,567,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\1jp3wbbcl7hw805i.jpg 50,422,2513,2435,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3ly7qtqs9ei8mq0l.jpg 235,21,631,534,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\21azofi2xui0ktv2.jpg 9,28,236,211,11 157,192,184,223,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\3qo5ocyq3mz1v06t.jpg 3,26,250,225,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\40b1x4yy0exbii1f.jpg 149,22,450,256,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\2r9zdewurg500edt.jpg 52,16,657,685,11 158,731,196,774,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4osmsy2v5resw8zu.jpg 72,51,237,220,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\4i9ewga1m0qi3n9u.jpg 5,0,796,637,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5le06eg9pb6k8ohj.jpg 43,158,387,525,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5tndn2nf9p9d4l4a.jpg 33,30,226,229,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\5iox206k05spss5a.jpg 442,36,636,280,11 19,173,189,437,11 735,37,1195,439,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7fe797xx1txvnxc6.jpg 7,11,319,250,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\9kszbuwsvnuhrawf.jpg 10,49,272,227,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\8rbzvk5vhvr3dphh.jpg 170,65,1966,1636,11 50,1192,419,1752,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7zkose79qis9rq30.jpg 69,136,641,721,11 658,398,1466,900,4
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\7gwydmqj4139i96d.jpg 7,24,255,246,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\bmkb8uz6y6zu4czm.jpg 15,44,590,542,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\atf5f8bcb1a4bunp.jpg 21,30,238,241,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\cxle45sskjuey1hn.jpg 388,3,1158,673,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\b2qwlq2afl63mx1j.jpg 110,21,559,400,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\chrmkixmv7nfvc8s.jpg 77,119,1438,1367,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\d6e5rpcrizm5ac56.jpg 254,293,782,817,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\e4bc6rwb6l66wit0.jpg 31,72,261,288,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\e3957y2ki20y255b.jpg 60,30,212,176,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\djoazjogcd6w68kh.jpg 198,251,720,681,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\d9isssnv7cmhpzqx.jpg 674,642,1177,1175,11 1186,743,1354,935,11 560,242,1224,632,11 377,690,706,1039,11 1317,699,1513,968,3
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\h9zodh0xdobyiyw1.jpg 24,4,602,544,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ffvof772o3uw5jxo.jpg 185,51,600,457,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\e8eim75jj8k8vx6k.jpg 1,76,400,525,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\f4qdalqtflwq440b.jpg 76,0,482,486,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ej8epezb6k8m9g4u.jpg 76,42,370,385,11 444,96,778,375,11 842,103,1168,377,11 1281,30,1559,377,11 1641,186,1873,377,11 1802,35,1966,259,11 834,506,1161,786,11 486,502,724,726,11 35,488,375,769,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\koxju0245r4x572a.jpg 85,20,688,491,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\l2f0xz8hvj1qpdrs.jpg 5,8,946,753,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\j4mvl6vlwu6nozmr.jpg 63,38,295,248,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\i1audtl5gmeripzj.jpg 40,43,204,165,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\ksjlnpkmfqlxxpvb.jpg 108,224,790,968,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lrsu9zmpkqrqzhbz.jpg 4,0,1100,1052,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mhki3zxfewteebda.jpg 0,1,978,490,11 450,178,697,465,6
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\mkq1qk60iv6eydlw.jpg 227,85,1235,1410,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\lo6965z9heqtrwb0.jpg 4,31,355,355,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\naxj6n82dx1fv1hy.jpg 43,32,519,442,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nyhe9kgqf40hxxi7.jpg 50,0,755,791,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nexp0k6oso9mq051.jpg 1,59,550,718,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nxp3i0r7omc4sl9p.jpg 56,53,486,515,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\o69djvmrawhlwpqj.jpg 4,19,342,280,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\nrwz5tm7yc56tikk.jpg 30,47,672,629,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\r78np9btxhyh4p77.jpg 57,105,591,531,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\s54ddtkvy40pze5z.jpg 51,111,913,837,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\pk5ulxj7echeb4hc.jpg 0,4,962,776,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\otp4h8pr60xt9iyh.jpg 75,67,1137,1329,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\s6h4ktja0vmfwmlq.jpg 320,137,561,477,11 41,23,360,480,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\tg01aatg4kqkgtr9.jpg 203,10,585,407,11 857,137,889,174,5
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\srhardx0qog4ur4e.jpg 20,34,788,488,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\s6qwetf0bbhxwvd4.jpg 10,26,324,322,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\sofbr6z6qvv3abj0.jpg 96,106,395,358,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\s79ecrvhcs3xu22t.jpg 14,56,630,586,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\uzyov4yy0hl0mfc2.jpg 202,112,1107,1379,11 1193,890,1325,1070,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vuucwka0vrqtck7p.jpg 0,26,638,515,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\x15l8phey2fjwhcy.jpg 228,180,649,510,11 63,261,115,307,11 176,160,228,210,11 31,483,158,505,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\vs7fjdi4dvx93sbe.jpg 0,0,197,192,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\x87tkoh0muykpeye.jpg 86,6,800,450,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zee9uxl1wm59b5ui.jpg 11,31,481,457,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\z0ufjs0r3bso8psl.jpg 112,14,560,439,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\xw1whvaftuwwvd1y.jpg 2,40,387,393,11
+C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Training_Images\vott-csv-export\zjrxf1it5nexm9ns.jpg 24,45,227,244,11

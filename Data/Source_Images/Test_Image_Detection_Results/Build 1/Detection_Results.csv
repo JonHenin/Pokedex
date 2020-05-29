@@ -1,0 +1,10 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+Bulbasaur-Hat_612.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\Bulbasaur-Hat_612.jpg,87,40,281,231,9,0.25573742389678955,500,331
+bulbasaur77revholo.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\bulbasaur77revholo.jpg,27,32,198,155,0,0.8211575746536255,225,312
+Pokemon-Build-a-Bear-Bulbasaur.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\Pokemon-Build-a-Bear-Bulbasaur.jpg,106,30,285,212,0,0.9961769580841064,400,300
+pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,245,25,521,293,9,0.4941268563270569,800,318
+pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,525,17,786,318,9,0.5102156400680542,800,318
+pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,525,17,786,318,3,0.3135627508163452,800,318
+pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,525,17,786,318,2,0.3069157004356384,800,318
+pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,245,25,521,293,2,0.356088250875473,800,318
+pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,C:\Users\jonat\Documents\Masters\YOLOgpu\Data\Source_Images\Test_Images\pokemon-go-pikachu-squirtle-bulbasaur-charmander-fuego-azul.jpg,9,58,249,318,0,0.8551824688911438,800,318

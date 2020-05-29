@@ -124,7 +124,7 @@ if __name__ == '__main__':
         input_paths = GetFileList(FLAGS.input_path)
 
     #Split images and videos
-    img_endings = ('.jpg','.jpg','.png')
+    img_endings = ('.jpg','.JPG','.png')
     vid_endings = ('.mp4','.mpeg','.mpg','.avi')
 
     input_image_paths = [] 
